@@ -23,6 +23,6 @@ Soy un estudiante de informatica apasionado con el desarrollo web. Estoy comprom
 </div>
 
 #### Contacto
-- Correo Electrónico: [laureanosciacaluga@gmail.com](laureanosciacaluga@gmail.com)
+- Correo Electrónico: laureanosciacaluga@gmail.com
 - LinkedIn: [Perfil](https://www.linkedin.com/in/laureano-sciacaluga-2293a2280/)
 - GitHub: [Perfil](https://github.com/Lausciaca)
