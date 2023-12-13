@@ -1,4 +1,4 @@
-### Hola, me llamo Laureno 👋
+### Hola, me llamo Laureano 👋
 Soy un estudiante de informatica apasionado con el desarrollo web. Estoy comprometido en crecer como profesional.
 
 #### Acerca de mí
