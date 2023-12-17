@@ -12,7 +12,7 @@ Soy un estudiante de informatica apasionado con el desarrollo web. Estoy comprom
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" height="40" width="40" />
 
-  <img src="https://qualitapps.com/wp-content/uploads/2023/02/102.png" height="40" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="40" width="60" />
   
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="40" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="40" width="40" />
